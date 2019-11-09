@@ -13,9 +13,9 @@ public class Dichotomy {
 	/**
 	 * 
 	 * @Description: 二分法查找递归
-	 * @param start
-	 *            起始下标
 	 * @param begin
+	 *            起始下标
+	 * @param end
 	 *            终点下标
 	 * @param arr
 	 *            数组
