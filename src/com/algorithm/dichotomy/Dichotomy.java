@@ -60,7 +60,6 @@ public class Dichotomy {
 				return mid;
 			if (arr[mid] < findNumber) {
 				low = mid + 1;
-
 			} else if (arr[mid] > findNumber) {
 				high = mid - 1;
 			}
